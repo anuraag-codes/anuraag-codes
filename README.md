@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuraag-codes
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA, OOP
 - 💞️ I’m looking to collaborate on projects (based on AI ML)
 - 📫 How to reach me - anuraaag09.23@gmail.com
 - 😄 Pronouns: he/him
